@@ -66,6 +66,6 @@ export class ConfigService {
   public recaptcha = {
     secret:
       process.env.RECAPTCHA_SECRET ||
-      '6Lc2ReUUAAAAAM-UBGGFTLOELBlVRme90hR-F1AM',
+      '03AHaCkAZlZA1UVLVmVOOh0FnaZLFi0nTUS5bl2fPM-RThENRZHYaYJV5nyv2pLXjJPhdGLoAhe3yNFQx5QP4JYKve_FTpqwL0uGkLuCMVwH1S1feRLNhHpwC3sKacOlNWhO64CwBRuHtfKgu02B9L_FLSPFug_3GoQdtdS3JdJnfzGAGjT_WlNneBWcyeWw36Y_7L8zzyHWRcIwNhZPCXbUr-bs9ROljNTTRmx4qI80U_ZEQx-ydbhndq_4VuV63PETdmuJHqercdpBLOqQQqYdFLO--lTpUspipGATQ0imFcZClUu91LoIb3ET0H4UcMDZFg-S33Z7_TtTiuewVzx7q3aPygaqx8Jntc-5HBblXDRDSO0lMAA3qTz8Y6DsTijw17aHWHRxhM',
   };
 }
